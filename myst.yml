@@ -1,0 +1,19 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: e3ee9102-7eb7-4001-8174-e4ff0c5fef7c
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/agoose77/tle-finitevolume-link
+  references:
+    pixels: https://agoose77.github.io/tle-finitevolume
+    #pixels: http://localhost:3003/
+    
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: article-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
